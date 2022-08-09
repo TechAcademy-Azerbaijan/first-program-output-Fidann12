@@ -1,1 +1,1 @@
-// Write code here
+console.log("\na\nbb\ncc");
