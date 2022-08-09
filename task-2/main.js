@@ -1,1 +1,1 @@
-console.log("\na\nbb\ncc");
+console.log("a\nbb\nccc");
